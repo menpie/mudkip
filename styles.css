@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+  }
+  body {
+  background:rgb(43, 0, 0);
+  }
+  
+  p {
+  color: white;
+  }
+  a {
+  color: pink;
+  }
+  
+  button {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+  }
